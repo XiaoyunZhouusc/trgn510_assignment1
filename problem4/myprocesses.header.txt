@@ -1,0 +1,9 @@
+# MY processes
+root     257040   2198  0 16:23 ?        00:00:01 sshd: xzhou314 [priv]
+xzhou314 257044 257040  0 16:23 ?        00:00:00 sshd: xzhou314@pts/3
+xzhou314 257045 257044  0 16:23 pts/3    00:00:00 -bash
+root     257179   2198  0 16:31 ?        00:00:01 sshd: xzhou314 [priv]
+xzhou314 257183 257179  0 16:31 ?        00:00:00 sshd: xzhou314@pts/1
+xzhou314 257184 257183  0 16:31 pts/1    00:00:00 -bash
+xzhou314 257325 257184  0 16:40 pts/1    00:00:00 ps -ef
+xzhou314 257326 257184  0 16:40 pts/1    00:00:00 grep --color=auto xzhou314
